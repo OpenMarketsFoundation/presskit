@@ -1,0 +1,20 @@
+{
+  "master": "concepts/open-markets-identity.png",
+  "method": "Symbol and wordmark traced from approved board; all variants share those paths.",
+  "applications": [
+    "podcast/open-markets-podcast-cover",
+    "social/square",
+    "social/link-preview",
+    "social/story",
+    "website/hero",
+    "media/podcast-title",
+    "templates/presentation-title"
+  ],
+  "palette": {
+    "ink": "#282238",
+    "paper": "#F7F4ED",
+    "iris": "#7C65B3",
+    "sage": "#879B83",
+    "ochre": "#C8A65A"
+  }
+}

@@ -1,61 +1,74 @@
 # Open Markets Foundation Press Kit
 
-Brand artwork and visual direction for Open Markets Foundation and the Open Markets Podcast.
+A complete asset library built from the approved watercolor identity: one symbol, one wordmark, and a consistent theme across foundation and podcast materials.
 
-[Website](https://openmarkets.pub/) · [GitHub](https://github.com/OpenMarketsFoundation) · [Podcast](https://fountain.fm/show/8aujy1pUxhDKcm0fHcsM) · [Download the kit](https://github.com/OpenMarketsFoundation/presskit/archive/refs/heads/main.zip)
+[Download the full kit](https://github.com/OpenMarketsFoundation/presskit/archive/refs/heads/main.zip) · [Brand guide](brand-guide.pdf) · [Website](https://openmarkets.pub/) · [Podcast](https://fountain.fm/show/8aujy1pUxhDKcm0fHcsM)
 
-## Visual direction
+![Open Markets Foundation logo family and palette](previews/asset-library.png)
 
-![Open Markets Foundation identity concept, including the logo, watercolor website hero, palette, podcast cover and social layout](concepts/open-markets-identity.png)
+## Logos
 
-A crisp ink mark, serif headlines and watercolor illustrations of everyday commerce. The podcast uses a deeper violet treatment within the same visual family.
+All variants share the symbol and outlined lettering traced from the [approved mockup](concepts/open-markets-identity.png). SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
 
-**Status: concept edition, October 2026.** The board illustrates the proposed identity and applications. It is not a collection of individually editable templates or finished vector logo files. The original artwork below is supplied separately from the concept.
+| Lockup | Ink SVG | Black SVG | White SVG | PNG downloads | Vector PDF |
+| --- | --- | --- | --- | --- | --- |
+| Badge | [SVG](logos/svg/omf-badge-ink.svg) | [SVG](logos/svg/omf-badge-black.svg) | [SVG](logos/svg/omf-badge-white.svg) | [512](logos/png/omf-badge-ink-512.png) / [2048](logos/png/omf-badge-ink-2048.png) | [PDF](logos/pdf/omf-badge-ink.pdf) |
+| Freestanding symbol | [SVG](logos/svg/omf-symbol-ink.svg) | [SVG](logos/svg/omf-symbol-black.svg) | [SVG](logos/svg/omf-symbol-white.svg) | [512](logos/png/omf-symbol-ink-512.png) / [2048](logos/png/omf-symbol-ink-2048.png) | [PDF](logos/pdf/omf-symbol-ink.pdf) |
+| Stacked | [SVG](logos/svg/omf-stacked-ink.svg) | [SVG](logos/svg/omf-stacked-black.svg) | [SVG](logos/svg/omf-stacked-white.svg) | [512](logos/png/omf-stacked-ink-512.png) / [2048](logos/png/omf-stacked-ink-2048.png) | [PDF](logos/pdf/omf-stacked-ink.pdf) |
+| Horizontal | [SVG](logos/svg/omf-horizontal-ink.svg) | [SVG](logos/svg/omf-horizontal-black.svg) | [SVG](logos/svg/omf-horizontal-white.svg) | [512](logos/png/omf-horizontal-ink-512.png) / [2048](logos/png/omf-horizontal-ink-2048.png) | [PDF](logos/pdf/omf-horizontal-ink.pdf) |
 
-## Downloads
+Black and white PNGs and PDFs are also available in the [PNG](logos/png/) and [PDF](logos/pdf/) folders. The numbers in PNG filenames indicate width in pixels. White files are intended for dark backgrounds.
 
-| Asset | Format and dimensions | Download |
+## Podcast and media
+
+<img src="podcast/open-markets-podcast-cover.png" width="420" alt="Open Markets Podcast watercolor cover" />
+
+- **[Podcast cover](podcast/open-markets-podcast-cover.png):** 3000 × 3000 PNG. [Outlined SVG](podcast/open-markets-podcast-cover.svg) / [editable SVG](templates/open-markets-podcast-cover-editable.svg).
+- **[Episode/title card](media/podcast-title.png):** 1920 × 1080 PNG. [Editable SVG](templates/podcast-title-editable.svg).
+- **[Intro video](media/open-markets-intro.mp4):** six-second 1920 × 1080 MP4, 30 fps, silent, with fade-in and fade-out. [Media notes](media/README.md).
+
+## Social, website and presentation assets
+
+![Open Markets link-preview artwork](social/link-preview.png)
+
+| Asset | Export | Editable source |
 | --- | --- | --- |
-| Identity concept board | PNG · 1536 × 1024 | [View / save](concepts/open-markets-identity.png) |
-| Original monochrome symbol | JPEG · 1024 × 1024 · white background | [View / save](logos/open-markets-original.jpg) |
-| Original podcast cover | PNG · 3000 × 3000 | [View / save](podcast/open-markets-podcast-original.png) |
-| Color palette | CSS variables | [palette.css](colors/palette.css) |
-| Color palette | JSON | [palette.json](colors/palette.json) |
-| Identity guidance | Markdown | [BRAND.md](BRAND.md) |
+| Square social post · 1080 × 1080 | [PNG](social/square.png) | [SVG](templates/square-editable.svg) |
+| Link preview · 1200 × 630 | [PNG](social/link-preview.png) | [SVG](templates/link-preview-editable.svg) |
+| Story · 1080 × 1920 | [PNG](social/story.png) | [SVG](templates/story-editable.svg) |
+| Website hero · 1920 × 1080 | [PNG](website/hero.png) | [SVG](templates/hero-editable.svg) |
+| Presentation title · 1920 × 1080 | [PNG](templates/presentation-title.png) | [SVG](templates/presentation-title-editable.svg) |
+| Small website icon | [SVG](website/icon.svg) / [16 PNG](website/icon-16.png) / [32 PNG](website/icon-32.png) | Same SVG |
+| Larger website icons | [48 PNG](website/icon-48.png) / [180 PNG](website/icon-180.png) / [512 PNG](website/icon-512.png) | [Badge SVG](logos/svg/omf-badge-ink.svg) |
 
-### Original artwork
+The small icon uses the same traced bars, arrow and inner broadcast arc, with the stars and outer arcs omitted for legibility. The website hero is an artwork/layout asset, not a deployed website.
 
-<img src="logos/open-markets-original.jpg" width="240" alt="Original Open Markets monochrome symbol" />
-<img src="podcast/open-markets-podcast-original.png" width="240" alt="Original Open Markets Podcast cover" />
-
-## Palette
-
-| Color | Hex | Intended role |
-| --- | --- | --- |
-| Ink | `#282238` | Logo, headings and primary text |
-| Paper | `#F7F4ED` | Main background |
-| Iris | `#7C65B3` | Brand accent |
-| Sage | `#879B83` | Illustration and decorative accents |
-| Ochre | `#C8A65A` | Illustration and decorative accents |
-
-These values define the concept palette; rendered swatches in the board are illustrative. Check contrast for each actual text/background pairing.
+[Template editing instructions](templates/README.md) · [Standalone watercolor backgrounds](illustrations/) · [Original approved concept](concepts/open-markets-identity.png)
 
 ## Typography
 
-Keep the website's editorial serif headline style and clear sans-serif supporting text. Exact font families, weights and licenses will be documented with the production assets; no font files are included in this edition.
+**Merriweather** for editorial headlines and **Manrope** for body copy and supporting labels. These families match the font declarations on the Open Markets website inspected on 24 October 2026.
 
-## Next production assets
+[Download the fonts and licenses](typography/fonts.zip) · [Font sources and installation notes](typography/README.md)
 
-- [ ] Refined vector logo masters and horizontal/stacked wordmarks.
-- [ ] Transparent, black, white and reversed exports.
-- [ ] Simplified avatar and favicon artwork, checked at small sizes.
-- [ ] Standalone podcast, episode, social and presentation templates.
-- [ ] Confirmed typography and font license references.
-- [ ] Press boilerplate, fact sheet, approved bios and media contact.
-- [ ] Final usage terms and production brand guide.
+The logo's distinctive lettering is outlined directly from the approved concept; do not retype it. Logo files do not require installed fonts. Editable templates retain live text and use the bundled fonts.
 
-See [BRAND.md](BRAND.md) for the production brief and [USAGE.md](USAGE.md) for the current asset status.
+## Color palette
 
-## Reference
+| Color | Hex | Role |
+| --- | --- | --- |
+| Ink | `#282238` | Mark, headings and primary text |
+| Paper | `#F7F4ED` | Main background |
+| Iris | `#7C65B3` | Brand accent |
+| Sage | `#879B83` | Watercolor and decorative accents |
+| Ochre | `#C8A65A` | Watercolor and decorative accents |
 
-Repository organization takes inspiration from the [HiveTalk press kit](https://github.com/HiveTalk/presskit). Open Markets artwork and colors are provided here; no HiveTalk artwork or fonts are bundled.
+[CSS](colors/palette.css) · [SCSS](colors/palette.scss) · [JSON](colors/palette.json) · [Plain text](colors/palette.txt)
+
+## Press information and guidance
+
+[Brand guide PDF](brand-guide.pdf) · [Usage guidance](BRAND.md) · [Press copy and fact sheet](press/README.md) · [Asset rights](USAGE.md) · [Asset inventory and verification](source/README.md)
+
+The previous monochrome upload and neon podcast cover are retained only in [archive](archive/README.md). Use the assets linked above for the watercolor identity.
+
+The packaging structure was informed by the [HiveTalk press kit](https://github.com/HiveTalk/presskit). No HiveTalk artwork is included.

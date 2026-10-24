@@ -1,52 +1,31 @@
-# Identity direction
+# Open Markets Foundation brand guidance
 
-## Core idea
+## Identity
 
-Keep the existing growth-and-broadcast symbol and the website's aquarelle character. Pair a sharp, flat ink mark with generous whitespace, serif headlines and clean sans-serif supporting text. Show everyday commerce through watercolor scenes of merchants, makers, customers and markets.
+Use the supplied SVG or PDF masters. The symbol and wordmark are traced from the approved watercolor concept, with the same paths reused across every export. Keep their proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
 
-The foundation identity should feel clear, welcoming and credible. Give the podcast a richer ink-and-violet atmosphere while retaining the same symbol and typographic family.
+Use the ink logo on paper or another quiet light background. Use the white logo on a quiet dark background. The symbol can stand alone where the full name is already clear.
 
-## Logo
+## Clear space and size
 
-The supplied symbol combines ascending bars, broadcast arcs, a sweeping arrow and two stars. Preserve its recognizable structure when drawing production vectors. Refine line weights, spacing and curves together so it reads consistently at different sizes.
+Leave at least one bar-width of clear space around the mark or lockup. For digital layouts, use the full badge at 48 px or larger, stacked lockup at 280 px wide or larger, and horizontal lockup at 360 px wide or larger. At 16-32 px use `website/icon.svg`, which preserves the bars, arrow and inner arc while removing the finer details. Verify legibility in the actual destination.
 
-Prepare a simplified version for small avatars and favicons; test it at 16, 24 and 32 pixels. The small-size design should not depend on the stars or other fine details to remain recognizable.
+Do not stretch the artwork, recolor its individual parts, add glow or bevel effects, or place it over a busy image. The PNGs are transparent; preview white files against a dark background.
 
-The original JPEG has a white background. It is not a transparent logo export. The concept board is a visual reference, not a vector master.
+## Typography
 
-## Composition
+Merriweather 700 is the editorial headline face. Manrope 400 handles body copy; Manrope 600 supports labels and emphasis. These families match the public website's CSS declarations inspected on 24 October 2026.
 
-- Keep the logo and text sharp; watercolor should surround them rather than obscure them.
-- Give text quiet areas of paper or solid ink instead of placing it over detailed paintings.
-- Use human commerce scenes and organic pigment edges, with sage and ochre accents.
-- Keep logo proportions intact. Do not stretch the symbol to fill a layout.
-- Establish clear space and minimum size rules after the vector masters have been tested.
+The logo lettering itself is traced and outlined from the approved concept. It is not a claim that a particular font reproduces that lettering exactly. Use the logo file rather than retyping the name.
 
-## Color and typography
+## Color
 
-The palette in `colors/` is the source for the proposed digital values. Use ink on paper for primary text. Sage and ochre are decorative accents; they are not pre-approved body-text colors. Verify contrast for interface controls, text and backgrounds before implementation.
+Use the values in `colors/` as the digital source of truth. Ink on paper is the default text combination. White on iris can be used for text; sage and ochre remain decorative accents. Validate any additional color combinations in context. PDFs use RGB colors for handoff; commission printer-specific CMYK proofing for a particular stock and process.
 
-Maintain the existing website's serif-led character. The concept board approximates that character and does not establish exact font identities. Confirm the site's font families and licenses before preparing typography exports.
+## Illustration and templates
 
-## Applications to produce
+The watercolor backgrounds were reconstructed from the corresponding panels of the approved mockup. They preserve its subjects, palette and visual treatment; they are not literal pixel crops. Logos remain clean, flat vector shapes. Keep illustrations separate from wordmarks and leave quiet space behind text.
 
-| Application | Target size |
-| --- | --- |
-| Podcast cover | 3000 × 3000 |
-| Episode / guest card | 1920 × 1080 |
-| Square social post | 1080 × 1080 |
-| Story | 1080 × 1920 |
-| Link preview | 1200 × 630 |
+The podcast uses the same logo geometry over an ink, violet and powder-blue watercolor background. Social and foundation materials use warm paper, sage foliage, ochre canopies and restrained iris accents.
 
-Also prepare website header lockups and presentation title/content layouts. Keep these as editable templates and include separate exported artwork.
-
-## Editorial material
-
-Start press copy from the foundation's existing public positioning. Verify dates, organizational status, biographies, metrics, affiliations, contact details and image credits before adding them to a fact sheet. A project appearing in the GitHub organization does not by itself establish a partnership or endorsement.
-
-## Sources
-
-- [Open Markets Foundation website](https://openmarkets.pub/)
-- [Open Markets Foundation on GitHub](https://github.com/OpenMarketsFoundation)
-- [Open Markets Podcast](https://fountain.fm/show/8aujy1pUxhDKcm0fHcsM)
-- [HiveTalk press kit](https://github.com/HiveTalk/presskit), for packaging structure
+Templates contain editable text and linked backgrounds. Install the supplied fonts and keep the folder structure when opening them. Exported artwork is self-contained and has outlined text, so it does not depend on font installation.

@@ -1,0 +1,25 @@
+{
+  "local_document_links": "pass",
+  "svg_structure_and_linked_art": "pass",
+  "transparent_pngs_and_variant_geometry": "pass",
+  "export_dimensions": "pass",
+  "vector_pdfs_and_guide": "pass",
+  "contrast": {
+    "ink_on_paper": 13.89,
+    "white_on_iris": 4.81
+  },
+  "font_licenses_and_zip": "pass",
+  "intro_video": {
+    "decode": "pass",
+    "size": "1920x1080",
+    "fps": 30,
+    "duration_seconds": 6,
+    "audio": "none"
+  },
+  "counts": {
+    "vector_logos": 12,
+    "transparent_logo_pngs": 24,
+    "vector_logo_pdfs": 12,
+    "editable_templates": 7
+  }
+}
