@@ -13,7 +13,7 @@ The symbol and logo lettering originate in `concepts/open-markets-identity.png`.
 - Three watercolor backgrounds reconstructed from the approved board.
 - Three-page PDF brand guide.
 - Merriweather and Manrope fonts with SIL Open Font License files and a font ZIP.
-- Color values in CSS, SCSS, JSON and plain text.
+- Five-column color chart in PNG and self-contained SVG, plus color values in CSS, SCSS, JSON and plain text.
 - A six-second, silent 1080p MP4 intro.
 - Website icon SVG and PNG sizes, press information and media references.
 

@@ -55,6 +55,10 @@ The logo's distinctive lettering is outlined directly from the approved concept;
 
 ## Color palette
 
+![Open Markets Foundation palette: Ink, Paper, Iris, Sage and Ochre](colors/palette.png)
+
+[Download palette image](colors/palette.png) · [Scalable SVG](colors/palette.svg)
+
 | Color | Hex | Role |
 | --- | --- | --- |
 | Ink | `#282238` | Mark, headings and primary text |
