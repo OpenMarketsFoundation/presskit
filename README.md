@@ -1,6 +1,6 @@
 # Open Markets Foundation Press Kit
 
-A complete asset library built from the approved watercolor identity: one symbol, one wordmark, and a consistent theme across foundation and podcast materials.
+A complete asset library using the original homepage artwork and corrected watercolor identity: one symbol, one wordmark, and a consistent theme across foundation and podcast materials.
 
 [Download the full kit](https://github.com/OpenMarketsFoundation/presskit/archive/refs/heads/main.zip) · [Brand guide](brand-guide.pdf) · [Website](https://openmarkets.pub/) · [Podcast](https://fountain.fm/show/8aujy1pUxhDKcm0fHcsM)
 
@@ -8,7 +8,7 @@ A complete asset library built from the approved watercolor identity: one symbol
 
 ## Logos
 
-All variants share the symbol and outlined lettering derived from the [approved mockup](concepts/open-markets-identity.png), with corrected letter contours and spacing. SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
+All variants share the symbol and outlined lettering from the [corrected vector master](source/identity-paths.json), with corrected letter contours and full-block alignment. SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
 
 | Lockup | Ink SVG | Black SVG | White SVG | PNG downloads | Vector PDF |
 | --- | --- | --- | --- | --- | --- |
@@ -36,14 +36,14 @@ Black and white PNGs and PDFs are also available in the [PNG](logos/png/) and [P
 | Square social post · 1080 × 1080 | [PNG](social/square.png) | [SVG](templates/square-editable.svg) |
 | Link preview · 1200 × 630 | [PNG](social/link-preview.png) | [SVG](templates/link-preview-editable.svg) |
 | Story · 1080 × 1920 | [PNG](social/story.png) | [SVG](templates/story-editable.svg) |
-| Website hero · 1920 × 1080 | [PNG](website/hero.png) | [SVG](templates/hero-editable.svg) |
+| Square homepage artwork · 1152 × 1152 | [PNG](website/hero.png) | [SVG](templates/hero-editable.svg) |
 | Presentation title · 1920 × 1080 | [PNG](templates/presentation-title.png) | [SVG](templates/presentation-title-editable.svg) |
 | Small website icon | [SVG](website/icon.svg) / [16 PNG](website/icon-16.png) / [32 PNG](website/icon-32.png) | Same SVG |
 | Larger website icons | [48 PNG](website/icon-48.png) / [180 PNG](website/icon-180.png) / [512 PNG](website/icon-512.png) | [Badge SVG](logos/svg/omf-badge-ink.svg) |
 
-The small icon uses the same traced bars, arrow and inner broadcast arc, with the stars and outer arcs omitted for legibility. The website hero is an artwork/layout asset, not a deployed website.
+The small icon uses the same traced bars, arrow and inner broadcast arc, with the stars and outer arcs omitted for legibility. The website artwork is the exact original square homepage illustration, with its transparency and complete composition preserved.
 
-[Template editing instructions](templates/README.md) · [Standalone watercolor backgrounds](illustrations/) · [Original approved concept](concepts/open-markets-identity.png)
+[Template editing instructions](templates/README.md) · [Standalone watercolor backgrounds](illustrations/) · [Original homepage artwork](illustrations/lemonade-children-day-transparent.webp)
 
 ## Typography
 

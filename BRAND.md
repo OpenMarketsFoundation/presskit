@@ -2,7 +2,7 @@
 
 ## Identity
 
-Use the supplied SVG or PDF masters. The symbol and wordmark are derived from the approved watercolor concept. The p descender, M serif, t/s separation and stacked line spacing are corrected in the vector master, with the same paths reused across every export. Keep their proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
+Use the supplied SVG or PDF masters. The symbol and wordmark are derived from the approved watercolor concept. The p descender, M serif, t/s separation and stacked line spacing are corrected in the vector master, with the same paths reused across every export. The badge aligns with the complete text block, including FOUNDATION; the subtitle must never hang below the badge. Keep these proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
 
 Use the ink logo on paper or another quiet light background. Use the white logo on a quiet dark background. The symbol can stand alone where the full name is already clear.
 
@@ -24,7 +24,7 @@ Use the values in `colors/` as the digital source of truth. Ink on paper is the 
 
 ## Illustration and templates
 
-The watercolor backgrounds were reconstructed from the corresponding panels of the approved mockup. They preserve its subjects, palette and visual treatment; they are not literal pixel crops. Logos remain clean, flat vector shapes. Keep illustrations separate from wordmarks and leave quiet space behind text.
+Foundation materials use the exact original square homepage illustration. Do not generate a replacement, retouch, recolor, stretch or crop it. Preserve its transparency and full composition; put text beside or above it. The lossless PNG version has the same decoded pixels as the original WebP. Logos remain clean, flat vector shapes. Keep illustrations separate from wordmarks and leave quiet space behind text.
 
 The podcast uses the same logo geometry over an ink, violet and powder-blue watercolor background. Social and foundation materials use warm paper, sage foliage, ochre canopies and restrained iris accents.
 
