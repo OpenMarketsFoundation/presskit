@@ -2,7 +2,7 @@
 
 ## Identity
 
-Use the supplied SVG or PDF masters. The symbol and wordmark are traced from the approved watercolor concept, with the same paths reused across every export. Keep their proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
+Use the supplied SVG or PDF masters. The symbol and wordmark are derived from the approved watercolor concept. The p descender, M serif, t/s separation and stacked line spacing are corrected in the vector master, with the same paths reused across every export. Keep their proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
 
 Use the ink logo on paper or another quiet light background. Use the white logo on a quiet dark background. The symbol can stand alone where the full name is already clear.
 

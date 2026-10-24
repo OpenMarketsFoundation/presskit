@@ -8,7 +8,7 @@ A complete asset library built from the approved watercolor identity: one symbol
 
 ## Logos
 
-All variants share the symbol and outlined lettering traced from the [approved mockup](concepts/open-markets-identity.png). SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
+All variants share the symbol and outlined lettering derived from the [approved mockup](concepts/open-markets-identity.png), with corrected letter contours and spacing. SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
 
 | Lockup | Ink SVG | Black SVG | White SVG | PNG downloads | Vector PDF |
 | --- | --- | --- | --- | --- | --- |
@@ -71,7 +71,7 @@ The logo's distinctive lettering is outlined directly from the approved concept;
 
 ## Press information and guidance
 
-[Brand guide PDF](brand-guide.pdf) · [Usage guidance](BRAND.md) · [Press copy and fact sheet](press/README.md) · [Asset rights](USAGE.md) · [Asset inventory and verification](source/README.md)
+[Brand guide PDF](brand-guide.pdf) · [Usage guidance](BRAND.md) · [Press copy and fact sheet](press/README.md) · [Asset rights](USAGE.md) · [Asset inventory and verification](source/README.md) · [Visual quality review](source/quality-review.md)
 
 The previous monochrome upload and neon podcast cover are retained only in [archive](archive/README.md). Use the assets linked above for the watercolor identity.
 

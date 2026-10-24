@@ -1,6 +1,6 @@
 # Asset sources and verification
 
-The symbol and logo lettering originate in `concepts/open-markets-identity.png`. `identity-paths.json` records their vector contours and source regions. Every full-size logo variant reuses these paths; the small website icon is a subset of the same symbol contours. The logo SVG files contain only vector shapes, with no embedded raster logos or font dependency.
+The symbol and logo lettering originate in `concepts/open-markets-identity.png`. `identity-paths.json` records their vector contours and source regions, including the repaired p descender, M serif and t/s separation. Every full-size logo variant reuses these paths; the small website icon is a subset of the same symbol contours. The logo SVG files contain only vector shapes, with no embedded raster logos or font dependency.
 
 `build-manifest.json` records the palette and application list. `validation.json` records checks for dimensions, transparency, consistent geometry across color variants, vector PDFs, editable text, local links, font licenses and complete video decoding.
 
@@ -18,3 +18,5 @@ The symbol and logo lettering originate in `concepts/open-markets-identity.png`.
 - Website icon SVG and PNG sizes, press information and media references.
 
 The artwork and PDFs were visually reviewed locally. No browser automation or live website deployment is part of this asset build.
+
+[Visual quality review](quality-review.md) documents the corrected lettering, export coverage and small-size checks. `wordmark-quality.json` records letter-component and shared-master checks. The original concept remains a historical reference and contains the lettering defects corrected in the production assets.
