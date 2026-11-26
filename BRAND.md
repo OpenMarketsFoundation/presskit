@@ -2,13 +2,13 @@
 
 ## Identity
 
-Use the supplied SVG or PDF masters. The symbol and wordmark are derived from the approved watercolor concept. The p descender, M serif, t/s separation and stacked line spacing are corrected in the vector master, with the same paths reused across every export. The badge aligns with the complete text block, including FOUNDATION; the subtitle must never hang below the badge. Keep these proportions and spacing intact. The old uploads in `archive/` are historical references, not current brand assets.
+The Calligraphic Loop interlocks the O and M. Use the supplied SVG or PDF master for the freestanding mark, stacked name, horizontal name, or square avatar. The avatar carries the full sweeping tail.
 
 Use the ink logo on paper or another quiet light background. Use the white logo on a quiet dark background. The symbol can stand alone where the full name is already clear.
 
 ## Clear space and size
 
-Leave at least one bar-width of clear space around the mark or lockup. For digital layouts, use the full badge at 48 px or larger, stacked lockup at 280 px wide or larger, and horizontal lockup at 360 px wide or larger. At 16-32 px use `website/icon.svg`, which preserves the bars, arrow and inner arc while removing the finer details. Verify legibility in the actual destination.
+Leave at least one broad pen stroke of clear space around the logo. Use the OM alone when the full name is too small to read. At 16–32 px, use the optical favicon with reinforced fine strokes.
 
 Do not stretch the artwork, recolor its individual parts, add glow or bevel effects, or place it over a busy image. The PNGs are transparent; preview white files against a dark background.
 

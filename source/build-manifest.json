@@ -1,6 +1,6 @@
 {
   "master": "source/identity-paths.json",
-  "method": "Corrected vector paths; badge height aligned to the full text block including FOUNDATION. Foundation artwork is the unchanged square homepage image.",
+  "method": "Calligraphic Loop vector outlines shared across all lockups. Foundation artwork is the unchanged square homepage image.",
   "artwork": "source/homepage-artwork.json",
   "applications": [
     "podcast/open-markets-podcast-cover",

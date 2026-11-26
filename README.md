@@ -1,6 +1,6 @@
 # Open Markets Foundation Press Kit
 
-A complete asset library using the original homepage artwork and corrected watercolor identity: one symbol, one wordmark, and a consistent theme across foundation and podcast materials.
+A complete asset library using the original homepage artwork and Calligraphic Loop identity: one symbol, one wordmark, and a consistent theme across foundation and podcast materials.
 
 [Download the full kit](https://github.com/OpenMarketsFoundation/presskit/archive/refs/heads/main.zip) · [Brand guide](brand-guide.pdf) · [Website](https://openmarkets.pub/) · [Podcast](https://fountain.fm/show/8aujy1pUxhDKcm0fHcsM)
 
@@ -8,7 +8,7 @@ A complete asset library using the original homepage artwork and corrected water
 
 ## Logos
 
-All variants share the symbol and outlined lettering from the [corrected vector master](source/identity-paths.json), with corrected letter contours and full-block alignment. SVGs and PDFs contain real vector paths, not embedded logo images. PNGs have transparent backgrounds, including the interior cutouts of the badge.
+All variants use the approved Calligraphic Loop outlines in the [vector master](source/identity-paths.json). SVG and PDF files preserve the curves. PNGs have transparent backgrounds outside the artwork.
 
 | Lockup | Ink SVG | Black SVG | White SVG | PNG downloads | Vector PDF |
 | --- | --- | --- | --- | --- | --- |
@@ -41,7 +41,7 @@ Black and white PNGs and PDFs are also available in the [PNG](logos/png/) and [P
 | Small website icon | [SVG](website/icon.svg) / [16 PNG](website/icon-16.png) / [32 PNG](website/icon-32.png) | Same SVG |
 | Larger website icons | [48 PNG](website/icon-48.png) / [180 PNG](website/icon-180.png) / [512 PNG](website/icon-512.png) | [Badge SVG](logos/svg/omf-badge-ink.svg) |
 
-The small icon uses the same traced bars, arrow and inner broadcast arc, with the stars and outer arcs omitted for legibility. The website artwork is the exact original square homepage illustration, with its transparency and complete composition preserved.
+The small icon uses the same OM with reinforced fine strokes. The website artwork is the exact original square homepage illustration, with its transparency and complete composition preserved.
 
 [Template editing instructions](templates/README.md) · [Standalone watercolor backgrounds](illustrations/) · [Original homepage artwork](illustrations/lemonade-children-day-transparent.webp)
 
