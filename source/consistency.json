@@ -3,7 +3,7 @@
   "original_webp_unchanged": true,
   "png_decoded_pixels_identical": true,
   "rejected_artwork_absent": true,
-  "aligned_lockups": 18,
+  "canonical_mark_instances": 33,
   "uncropped_square_placements": 10,
   "embedded_artwork_allowlist": "pass"
 }

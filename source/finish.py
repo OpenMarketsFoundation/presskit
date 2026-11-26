@@ -27,12 +27,12 @@ def page(n,title,sub):
     tx('OPEN MARKETS FOUNDATION',45,600,10,'Bold');tx(f'BRAND GUIDE / {n:02d}',775,600,10)
     c.setStrokeColor(ink);c.setLineWidth(.4);c.line(45,583,915,583)
     tx(title,45,534,32,'Serif');tx(sub,45,502,13)
-    tx('Watercolor identity | 24 October 2026',45,24,9);tx('openmarkets.pub',815,24,9)
-page(1,'One mark. One visual family.','The badge and complete text block align. Use the original homepage artwork unchanged.')
+    tx('Calligraphic Loop | November 2026',45,24,9);tx('openmarkets.pub',815,24,9)
+page(1,'One mark. One visual family.','The interlocking OM is the foundation mark. Use the supplied outlines in every lockup.')
 c.drawImage(str(R/'previews/asset-library.png'),45,65,870,420,preserveAspectRatio=True,anchor='c',mask='auto')
 c.showPage()
 page(2,'Use the right file.','SVG for scalable digital artwork. Transparent PNG for everyday use. PDF for vector handoff.')
-items=[('Primary identity','Ink badge and wordmark on paper or a quiet light background.'),('Dark backgrounds','Use the white symbol or white lockup on ink or a quiet dark area.'),('Minimum sizes','Full badge: 48 px. Stacked lockup: 280 px wide. Horizontal: 360 px wide.'),('Clear space','Leave at least one bar-width around the symbol and lockups.'),('Small icons','Use the simplified icon at 16-32 px; it omits the stars and outer broadcast arcs.'),('Avoid','Do not stretch, recolor individual parts, add glows, or place text over busy artwork.')]
+items=[('Primary identity','Ink OM and wordmark on paper or a quiet light background.'),('Dark backgrounds','Use the white symbol or white lockup on ink or a quiet dark area.'),('Minimum sizes','Use the OM alone when the full name is too small to read.'),('Clear space','Leave at least one broad pen stroke around the symbol and lockups.'),('Small icons','Use the optical icon at 16-32 px. Its fine strokes carry more weight.'),('Avoid','Do not stretch, recolor individual parts, add glows, or place text over busy artwork.')]
 y=455
 for label,body in items:
     tx(label,45,y,14,'Bold');tx(body,45,y-24,12);y-=66
